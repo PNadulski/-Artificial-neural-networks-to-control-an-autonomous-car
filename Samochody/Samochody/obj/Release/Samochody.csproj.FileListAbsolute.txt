@@ -1,0 +1,23 @@
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Release\Samochody.exe.config
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Samochody.exe.config
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.dll.config
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Samochody.exe
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Samochody.pdb
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Genetic.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Math.Core.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Math.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Neuro.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Statistics.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Genetic.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Math.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Math.Core.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Neuro.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Release\Accord.Statistics.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Release\Samochody.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Release\Samochody.Form1.resources
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Release\Samochody.Properties.Resources.resources
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Release\Samochody.csproj.GenerateResource.Cache
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Release\Samochody.exe
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Release\Samochody.pdb

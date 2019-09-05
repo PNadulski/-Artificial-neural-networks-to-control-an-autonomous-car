@@ -1,0 +1,56 @@
+E:\Projekty Visual\Samochody\Samochody\bin\Debug\Samochody.exe.config
+E:\Projekty Visual\Samochody\Samochody\bin\Debug\Samochody.exe
+E:\Projekty Visual\Samochody\Samochody\bin\Debug\Samochody.pdb
+E:\Projekty Visual\Samochody\Samochody\obj\Debug\Samochody.csprojResolveAssemblyReference.cache
+E:\Projekty Visual\Samochody\Samochody\obj\Debug\Samochody.Form1.resources
+E:\Projekty Visual\Samochody\Samochody\obj\Debug\Samochody.Properties.Resources.resources
+E:\Projekty Visual\Samochody\Samochody\obj\Debug\Samochody.csproj.GenerateResource.Cache
+E:\Projekty Visual\Samochody\Samochody\obj\Debug\Samochody.exe
+E:\Projekty Visual\Samochody\Samochody\obj\Debug\Samochody.pdb
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Samochody.exe.config
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\obj\Debug\Samochody.exe
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\obj\Debug\Samochody.pdb
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Samochody.exe
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Samochody.pdb
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\obj\Debug\Samochody.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\obj\Debug\Samochody.Form1.resources
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\obj\Debug\Samochody.Properties.Resources.resources
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\obj\Debug\Samochody.csproj.GenerateResource.Cache
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.dll.config
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.dll
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Genetic.dll
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Math.Core.dll
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Math.dll
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Neuro.dll
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.xml
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Genetic.xml
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Math.xml
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Math.Core.xml
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Neuro.xml
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Statistics.dll
+C:\Users\Przemek\Desktop\abc\Samochody\Samochody\bin\Debug\Accord.Statistics.xml
+C:\Users\Przemek\OneDrive\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Samochody.exe.config
+C:\Users\Przemek\OneDrive\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Debug\Samochody.exe
+C:\Users\Przemek\OneDrive\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Debug\Samochody.pdb
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Samochody.exe.config
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Debug\Samochody.exe
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Debug\Samochody.pdb
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.dll.config
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Samochody.exe
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Samochody.pdb
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Genetic.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Math.Core.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Math.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Neuro.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Statistics.dll
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Genetic.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Math.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Math.Core.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Neuro.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\bin\Debug\Accord.Statistics.xml
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Debug\Samochody.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Debug\Samochody.Form1.resources
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Debug\Samochody.Properties.Resources.resources
+C:\Users\Przemek\OneDrive\SQL\Licencjat\Samochody 2018-05-31\Samochody\Samochody\obj\Debug\Samochody.csproj.GenerateResource.Cache
